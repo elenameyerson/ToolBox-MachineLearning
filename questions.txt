@@ -1,0 +1,8 @@
+﻿Machine Learning Questions
+Elena Meyerson
+SoftDes Spring 2017
+
+1. The general trend is that the accuracy of the test increases as the percentage of the data used for testing increases.
+2. The graph as a whole is fairly messy.
+3. I got a fairly smooth curve using 1000 trials.
+4.  The smaller the two values in C, the closer the graph looks to a square root graph.
